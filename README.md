@@ -7,4 +7,4 @@ The original paper is available at [http://lanl.arxiv.org/pdf/cs/0011047](arxiv.
 
 The two important files in this repository is dlx.rb - a general implementation of the DLX constraint solving algorithm, and sudoku_solver.rb - which does the setup of the sparse matrix for a given sudoku and translates from the dlx result to a sudoku solution.
 
-The solver (extracted into a C extension) is used to generate the sudokus at my simple [http://sudoku.mathias-biilmann.net](sudoku challenge) page.
+The solver (extracted into a C extension) is used to generate the sudokus at my simple [http://sudoku.mathias-biilmann.net](sudoku) challenge page.
